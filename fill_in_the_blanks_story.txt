@@ -1,0 +1,18 @@
+In this exercise, you will write a Python program that creates a humorous story by filling in the blanks with user inputs. Follow these steps to complete the task:
+Create variables for user input:
+ - Two adjectives
+ - Two nouns
+ - Two verbs
+ - The name of a celebrity
+ - A place
+Prompt the user to enter words for each variable.
+Use the variables to fill in the blanks in the story template below.
+Print the complete story to the user.
+
+Here is the template for your story:
+
+Once upon a time, in a ___(adjective1)___ land, there was a ___(noun1)___ who loved to ___(verb1)___.
+Every day, this ___(adjective2)___ ___(noun1)___ would ___(verb1)___ with its best friend, a ___(noun2)___ named ___(celebrity)___.
+One day, while they were ___(verb2)___ in the ___(place)___, they found a magic ___(noun2)___ that granted them three wishes.
+They wished for ___(adjective1)___ adventures, ___(adjective2)___ friends, and unlimited ___(noun1)___-shaped cookies!
+And they lived happily ever after, always remembering to laugh and have fun.
